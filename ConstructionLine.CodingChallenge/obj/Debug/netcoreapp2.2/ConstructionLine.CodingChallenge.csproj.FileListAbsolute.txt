@@ -1,0 +1,9 @@
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.deps.json
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csprojAssemblyReference.cache
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\chagali\Documents\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
