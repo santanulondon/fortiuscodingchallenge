@@ -1,6 +1,6 @@
 # Construction Line code challenge
 
-The code challenge consists in the implementation of a simple search engine for shirts.
+The code challenge consists in the implementation of a simple search engine for shirt.
 
 ## What to do?
 Shirts are in different sizes and colors. As described in the Size.cs class, there are three sizes: small, medium and large, and five different colors listed in Color.cs class.
